@@ -3,4 +3,4 @@
 
 ####**Tips**:
 The blog is using a theme named  ***white-paper***.
-If u like it, like him (**[@Vinit Kumar](https://github.com/vinitkumar)** ) ^_^
+If u like it, click him (**[@Vinit Kumar](https://github.com/vinitkumar)** ) ^_^
