@@ -1,0 +1,17 @@
+name: GiGi's Blog
+markdown: redcarpet
+highlighter: true
+paginate: 5
+disqus_shortname: sin0418
+owner:
+  name: ZX
+  avatar: http://tp3.sinaimg.cn/1553928694/180/5652980086/1
+  email: sin0418@gmail.com
+  twitter: GiGiMaster00
+  github: gigimaster
+  stackexchange: sin0418
+  google_plus: https://google.com/+SeanZheng00
+
+google_analytics: UA-60754144-1
+google_verify:
+bing_verify:
