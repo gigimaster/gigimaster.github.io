@@ -1,6 +1,6 @@
 name: GiGi's Blog
 markdown: redcarpet
-highlighter: true
+pygments: true
 paginate: 5
 disqus_shortname: sin0418
 owner:
